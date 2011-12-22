@@ -1,0 +1,13 @@
+0 @I0001@ INDI
+1 NAME Elizabeth Alexandra Mary /Windsor/
+1 SEX F
+1 BIRT
+2 DATE 21 Apr 1926
+2 PLAC 17 Bruton Street, London, W1
+1 OCCU Queen
+1 FAMC @F0003@
+1 FAMS @F0001@
+1 NOTE @N0002@
+1 CHAN
+2 DATE 13 Dec 2003
+

@@ -1,0 +1,20 @@
+<GEDCOM>
+	<INDI id="@I0001@">
+		<NAME value="Elizabeth Alexandra Mary /Windsor/"></NAME>
+		<SEX value="F"></SEX>
+		<BIRT>
+			<DATE value="21 Apr 1926"></DATE>
+			<PLAC value="17 Bruton Street, London, W1"></PLAC>
+		</BIRT>
+		<OCCU value="Queen"></OCCU>
+		<NOTE idref="@N0002@"></NOTE>
+		<CHAN>
+			<DATE value="13 Dec 2003"></DATE>
+		</CHAN>
+	</INDI>
+	<NOTE id="@N0002@">
+		<CONC value="Born at home of Maternal grandparents"></CONC>
+		<CONT value="Educated privately"></CONT>
+		<CONT value="Coronation in 1953"></CONT>
+	</NOTE>
+</GEDCOM>
