@@ -1,1 +1,25 @@
-Read me for this project
+This project consists of a parser which reads the plan text file in a pre-defined format and converts it to an xml file
+
+It also does validations for invalid data format, missing data (for refereed node).
+
+How to run the project
+----------------------
+
+1) To run the file, set the classpath to include the libraries in the lib folder along with project class files.
+2) Run the GedcomParser.java,
+    a) it will ask for the location of the text file. You can point it to the file included in the project or any other file
+       in same format
+    b) next it will ask for the output file location & name, if file does not exists it will generate the parser response
+       in the supplied xml name.
+
+Test Case
+----------
+
+I have written a test case to back the code along with the parser. It tests for various conditions such as 
+1) Error reading/opening files
+2) Wrong format of the file (other than given in problem statement)
+3) Missing node reference (case where a node refer to a node which does not exists)
+
+
+For any other question, please drop me a mail @ akhil10s@gmail.com.
+
